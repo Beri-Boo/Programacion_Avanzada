@@ -1,0 +1,15 @@
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\bin\Debug\net10.0\P-E4.exe
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\bin\Debug\net10.0\P-E4.deps.json
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\bin\Debug\net10.0\P-E4.runtimeconfig.json
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\bin\Debug\net10.0\P-E4.dll
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\bin\Debug\net10.0\P-E4.pdb
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\obj\Debug\net10.0\P-E4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\obj\Debug\net10.0\P-E4.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\obj\Debug\net10.0\P-E4.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\obj\Debug\net10.0\P-E4.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\obj\Debug\net10.0\P-E4.dll
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\obj\Debug\net10.0\refint\P-E4.dll
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\obj\Debug\net10.0\P-E4.pdb
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\obj\Debug\net10.0\P-E4.genruntimeconfig.cache
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\obj\Debug\net10.0\ref\P-E4.dll
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E4\P-E4\obj\Debug\net10.0\P-E4.csproj.Up2Date

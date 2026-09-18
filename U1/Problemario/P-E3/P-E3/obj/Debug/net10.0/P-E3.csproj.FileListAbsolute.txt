@@ -1,0 +1,15 @@
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\bin\Debug\net10.0\P-E3.exe
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\bin\Debug\net10.0\P-E3.deps.json
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\bin\Debug\net10.0\P-E3.runtimeconfig.json
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\bin\Debug\net10.0\P-E3.dll
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\bin\Debug\net10.0\P-E3.pdb
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\obj\Debug\net10.0\P-E3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\obj\Debug\net10.0\P-E3.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\obj\Debug\net10.0\P-E3.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\obj\Debug\net10.0\P-E3.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\obj\Debug\net10.0\P-E3.dll
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\obj\Debug\net10.0\refint\P-E3.dll
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\obj\Debug\net10.0\P-E3.pdb
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\obj\Debug\net10.0\P-E3.genruntimeconfig.cache
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\obj\Debug\net10.0\ref\P-E3.dll
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\Problemario\P-E3\P-E3\obj\Debug\net10.0\P-E3.csproj.Up2Date
