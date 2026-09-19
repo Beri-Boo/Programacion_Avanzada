@@ -13,3 +13,4 @@ C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\E2
 C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\E2\E2\obj\Debug\net10.0\E2.genruntimeconfig.cache
 C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\E2\E2\obj\Debug\net10.0\ref\E2.dll
 C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\E2\E2\obj\Debug\net10.0\E2.csproj.Up2Date
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U1\E2\E2\obj\Debug\net10.0\E2.sourcelink.json
