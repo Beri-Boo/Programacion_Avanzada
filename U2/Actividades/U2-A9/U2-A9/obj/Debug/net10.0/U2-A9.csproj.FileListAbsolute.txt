@@ -1,0 +1,16 @@
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\obj\Debug\net10.0\U2-A9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\obj\Debug\net10.0\U2-A9.AssemblyInfoInputs.cache
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\obj\Debug\net10.0\U2-A9.AssemblyInfo.cs
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\obj\Debug\net10.0\U2-A9.csproj.CoreCompileInputs.cache
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\obj\Debug\net10.0\U2-A9.sourcelink.json
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\bin\Debug\net10.0\U2-A9.exe
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\bin\Debug\net10.0\U2-A9.deps.json
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\bin\Debug\net10.0\U2-A9.runtimeconfig.json
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\bin\Debug\net10.0\U2-A9.dll
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\bin\Debug\net10.0\U2-A9.pdb
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\obj\Debug\net10.0\U2-A9.dll
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\obj\Debug\net10.0\refint\U2-A9.dll
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\obj\Debug\net10.0\U2-A9.pdb
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\obj\Debug\net10.0\U2-A9.genruntimeconfig.cache
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\obj\Debug\net10.0\ref\U2-A9.dll
+C:\Users\berna\OneDrive\Documentos\UNI\7th Semester\Programación Avanzada\U2\Actividades\U2-A9\U2-A9\obj\Debug\net10.0\U2-A9.csproj.Up2Date
