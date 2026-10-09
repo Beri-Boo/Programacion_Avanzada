@@ -1,0 +1,16 @@
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\bin\Debug\net10.0\8_P2_TE230170.exe
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\bin\Debug\net10.0\8_P2_TE230170.deps.json
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\bin\Debug\net10.0\8_P2_TE230170.runtimeconfig.json
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\bin\Debug\net10.0\8_P2_TE230170.dll
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\bin\Debug\net10.0\8_P2_TE230170.pdb
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\obj\Debug\net10.0\8_P2_TE230170.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\obj\Debug\net10.0\8_P2_TE230170.AssemblyInfoInputs.cache
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\obj\Debug\net10.0\8_P2_TE230170.AssemblyInfo.cs
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\obj\Debug\net10.0\8_P2_TE230170.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\obj\Debug\net10.0\8_P2_TE230170.sourcelink.json
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\obj\Debug\net10.0\8_P2_TE230170.dll
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\obj\Debug\net10.0\refint\8_P2_TE230170.dll
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\obj\Debug\net10.0\8_P2_TE230170.pdb
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\obj\Debug\net10.0\8_P2_TE230170.genruntimeconfig.cache
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\obj\Debug\net10.0\ref\8_P2_TE230170.dll
+C:\Users\Bryan\OneDrive\Documentos\REPOSITORIO\8_P2_TE230170\8_P2_TE230170\obj\Debug\net10.0\8_P2_TE2.F2837782.Up2Date

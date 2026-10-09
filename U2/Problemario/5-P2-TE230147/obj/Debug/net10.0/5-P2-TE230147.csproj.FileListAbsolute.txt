@@ -1,0 +1,16 @@
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\bin\Debug\net10.0\5-P2-TE230147.exe
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\bin\Debug\net10.0\5-P2-TE230147.deps.json
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\bin\Debug\net10.0\5-P2-TE230147.runtimeconfig.json
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\bin\Debug\net10.0\5-P2-TE230147.dll
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\bin\Debug\net10.0\5-P2-TE230147.pdb
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\obj\Debug\net10.0\5-P2-TE230147.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\obj\Debug\net10.0\5-P2-TE230147.AssemblyInfoInputs.cache
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\obj\Debug\net10.0\5-P2-TE230147.AssemblyInfo.cs
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\obj\Debug\net10.0\5-P2-TE230147.csproj.CoreCompileInputs.cache
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\obj\Debug\net10.0\5-P2-TE230147.sourcelink.json
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\obj\Debug\net10.0\5-P2-TE230147.dll
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\obj\Debug\net10.0\refint\5-P2-TE230147.dll
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\obj\Debug\net10.0\5-P2-TE230147.pdb
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\obj\Debug\net10.0\5-P2-TE230147.genruntimeconfig.cache
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\obj\Debug\net10.0\ref\5-P2-TE230147.dll
+C:\Users\enriq\OneDrive\Escritorio\PROGRAM AVANZ 7C\5-P2-TE230147\obj\Debug\net10.0\5-P2-TE2.A3D94075.Up2Date
